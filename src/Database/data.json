@@ -1,0 +1,36 @@
+{
+  "Manager": [
+    {
+      "id": "085e",
+      "name": "Darshan",
+      "email": "darshan@gmail.com",
+      "password": "12345",
+      "phone": "7666182861",
+      "profile": "https://images.unsplash.com/photo-1708165725218-3a37c2165755?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "18f7",
+      "name": "sammed",
+      "email": "sammed@gmail.com",
+      "password": "12345",
+      "phone": "5513254651",
+      "profile": "urldfo"
+    },
+    {
+      "id": "4fb2",
+      "name": "shreya",
+      "email": "shreya@gmail.com",
+      "password": "98765",
+      "phone": "687897876",
+      "profile": "ksjiahov"
+    },
+    {
+      "id": "09ed",
+      "name": "himanshu",
+      "email": "himanshu@gmail.com",
+      "password": "6543",
+      "phone": "489798865",
+      "profile": "dfjf0 ue99wefishisjfisjf"
+    }
+  ]
+}

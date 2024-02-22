@@ -1,0 +1,19 @@
+.AdminNavbar{
+    background-color: rgb(255, 186, 116);
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 40px;
+
+}
+.AdminNavbar>.logo>.options{
+    width: 300px;
+    display: flex;
+    align-items: center;  
+    /* justify-content: end; */
+}
+.AdminNavbar>.logo>.options>#l2{
+    margin-left:40px;
+}
