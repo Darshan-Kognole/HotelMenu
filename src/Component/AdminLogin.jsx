@@ -7,9 +7,10 @@ import axios from 'axios'
 
 const AdminLogin = () => {
   let [uname,setuname] =useState("")
+  console.log(uname);
   let [password,setpasword] =useState("")
-  let [admin,setadmin]=useState("")
-
+  console.log(password);
+  let [admin,setadmin]=useState([])
   let navigate = useNavigate();
 
   useEffect(()=>{
@@ -26,15 +27,13 @@ const AdminLogin = () => {
     let a=false;
     e.preventDefault();
     admin.map((x)=>{
-      if(uname===x.email && password===x.password){
+      if(uname==x.email && password==x.password){
         alert("Logged In Successfully")
         navigate('/adminhomepage')
-        a=true;
-      
+        a=true;        
       }
-      return undefined;
     })
-    if(a===false){
+    if(a==false){
       alert("Invalid username or password")
     }
   }

@@ -32,5 +32,18 @@
       "phone": "489798865",
       "profile": "dfjf0 ue99wefishisjfisjf"
     }
+  ],
+  "Product": [
+    {
+      "id": "f2ee",
+      "category": "Starters",
+      "Rstname": "Darshan restaurant",
+      "Dname": "Panner Tikka",
+      "price": "200",
+      "qty": "1",
+      "desp": "Panner tikka with extra spicy",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2015/07/Restaurant-Style-Recipe-Paneer-Tikka.jpg",
+      "rating": "5"
+    }
   ]
 }
