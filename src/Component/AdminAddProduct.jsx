@@ -24,7 +24,7 @@ const AdminAddProduct = () => {
     })
   }
   return (
-    <div className='addproduct'><h1> Add Product Form</h1>
+    <div className='addproduct'><br /><h3> Add Product Form</h3>
       <form className='form' onSubmit={addDish}>
         <label htmlFor="">
           Category: <select value={category} onChange={(e)=>{setcategory(e.target.value)}} type="text">
@@ -39,36 +39,28 @@ const AdminAddProduct = () => {
             <option >Deserts</option>
           </select>
         </label>
-        <br />
         <label className='l1'>
           Restaurant Name : <input type="text" value={Rstname} onChange={(e)=>{setRstname(e.target.value)}} placeholder='Enter restaurant name' />
         </label>
-        <br />
         <label htmlFor="">
           Dish Name: <input type="text" value={Dname} onChange={(e)=>{setDname(e.target.value)}} placeholder='Enter dish name'/>
         </label>
-        <br />
         <label htmlFor="">
           Price: <input type="text" value={price} onChange={(e)=>{setprice(e.target.value)}} placeholder='Enter the Cost Price'/>
         </label>
-        <br />
         <label htmlFor="">
           Quantity: <input type='text' value={qty} onChange={(e)=>{setqty(e.target.value)}}/>
         </label>
-        <br />
         <label htmlFor="">
           Description : <textarea type="text" value={desp} onChange={(e)=>{setdesp(e.target.value)}} placeholder='Enter the special recipies' rows="2" />
         </label>
-        <br />
         <label htmlFor="">
           thumbnailUrl: <input type="text" value={turl} onChange={(e)=>{setturl(e.target.value)}} placeholder='Enter image Url'/>
         </label>
-        <br />
         <label htmlFor="">
           Ratings: <input type="number" value={rating} onChange={(e)=>{setrating(e.target.value)}}/>
         </label>
-        <br />
-        <button>Add Product</button>
+        <button className='.button-85'>Add Product</button>
       </form>
     </div>
   )

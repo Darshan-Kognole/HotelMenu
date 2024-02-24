@@ -44,6 +44,204 @@
       "desp": "Panner tikka with extra spicy",
       "turl": "https://www.cookwithmanali.com/wp-content/uploads/2015/07/Restaurant-Style-Recipe-Paneer-Tikka.jpg",
       "rating": "5"
+    },
+    {
+      "id": "74da",
+      "category": "",
+      "Rstname": "Sultan",
+      "Dname": "Chicken spring rolls",
+      "price": "100",
+      "qty": "1",
+      "desp": "Fully cooked spring rolls filled with chicken and vegetables ith chili sauce ",
+      "turl": "https://sulthansbiriyani.in/wp-content/uploads/2021/04/chicken-spring-rolls-Delicious-Indian-Non-Veg-Starters.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "ed56",
+      "category": "",
+      "Rstname": "FishFry",
+      "Dname": "Fish and chicken pakora",
+      "price": "150",
+      "qty": "1",
+      "desp": "Fully cooked spring rolls filled with chicken and vegetables ith chili sauce ",
+      "turl": "https://sulthansbiriyani.in/wp-content/uploads/2021/04/Fish-and-chicken-pakora-Delicious-Indian-Non-Veg-Starters.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "64ab",
+      "category": "",
+      "Rstname": "Chiks",
+      "Dname": "Fish and chicken pakora",
+      "price": "179",
+      "qty": "1",
+      "desp": "Fully cooked spring rolls filled with chicken and vegetables ith chili sauce ",
+      "turl": "https://sulthansbiriyani.in/wp-content/uploads/2021/04/Chicken-Manchurian-Delicious-Indian-Non-Veg-Starters.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "869c",
+      "category": "",
+      "Rstname": "Vegify",
+      "Dname": "Aloo Chat",
+      "price": "109",
+      "qty": "1",
+      "desp": "crispy potato pieces seasoned with very few spices, fresh herbs and drizzled lemon juice on top.",
+      "turl": "https://www.spiceupthecurry.com/wp-content/uploads/2015/10/vrat-ke-aloo-chaat-6.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "ac85",
+      "category": "veg",
+      "Rstname": "Vegify",
+      "Dname": "Dal Makhani",
+      "price": "299",
+      "qty": "1",
+      "desp": "Creamy and buttery Dal Makhani",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2019/04/Restaurant-Style-Dal-Makhani.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "bfa6",
+      "category": "veg",
+      "Rstname": "Vegify",
+      "Dname": "Green Moong Dal ",
+      "price": "249",
+      "qty": "1",
+      "desp": "Simple and comforting green moong dal",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2020/10/Green-Moong-Dal-Sabut-Moong-Dal.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "8dcc",
+      "category": "veg",
+      "Rstname": "Vegify",
+      "Dname": "Tawa Paneer",
+      "price": "299",
+      "qty": "1",
+      "desp": "spicy semi-dry paneer dish,cooked with onions, tomatoes and lots of spices",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2020/10/Green-Moong-Dal-Sabut-Moong-Dal.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "9b3a",
+      "category": "veg",
+      "Rstname": "Vegify",
+      "Dname": "Malai Kofta",
+      "price": "279",
+      "qty": "1",
+      "desp": "fried balls (koftas) made with potato and paneer, dunked in a creamy spiced velvety smooth curry",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2020/10/Green-Moong-Dal-Sabut-Moong-Dal.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "a92f",
+      "category": "veg",
+      "Rstname": "Vegify",
+      "Dname": "Aloo Methi",
+      "price": "249",
+      "qty": "1",
+      "desp": " fry with potatoes and fresh fenugreek leave",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2019/04/Aloo-Methi.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "a279",
+      "category": "veg",
+      "Rstname": "Vegify",
+      "Dname": "Bhindi Masala",
+      "price": "199",
+      "qty": "1",
+      "desp": "with okra, onion, tomatoes & spices",
+      "turl": "https://www.cookwithmanali.com/wp-content/uploads/2014/04/Bhindi-Masala.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "a2b7",
+      "category": "Non-veg",
+      "Rstname": "Non-vegify",
+      "Dname": "Chicken Biryani",
+      "price": "299",
+      "qty": "1",
+      "desp": "ragrant chicken biryani which is cooked in pressure cooker ",
+      "turl": "https://www.indianfoodforever.com/iffwd/wp-content/uploads/chicken-biryani-pressure-cooker.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "42a7",
+      "category": "Non-veg",
+      "Rstname": "Non-vegify",
+      "Dname": "Mutton",
+      "price": "299",
+      "qty": "1",
+      "desp": "There is no use of tomatoes and dhania patta ",
+      "turl": "https://www.indianfoodforever.com/iffwd/wp-content/uploads/easy-mutton-gravy-recipe.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "dfa5",
+      "category": "Non-veg",
+      "Rstname": "Non-vegify",
+      "Dname": "Chikken Bhuna Masala",
+      "price": "249",
+      "qty": "1",
+      "desp": "extra spicy ",
+      "turl": "https://www.indianfoodforever.com/iffwd/wp-content/uploads/chicken-bhuna-masala-punjabi.jpeg",
+      "rating": "5"
+    },
+    {
+      "id": "c154",
+      "category": "Sea-Food",
+      "Rstname": "Sea",
+      "Dname": "Chikken Bhuna Masala",
+      "price": "249",
+      "qty": "1",
+      "desp": "extra spicy ",
+      "turl": "https://www.indianfoodforever.com/iffwd/wp-content/uploads/chicken-bhuna-masala-punjabi.jpeg",
+      "rating": "5"
+    },
+    {
+      "id": "6770",
+      "category": "Sea-Food",
+      "Rstname": "SeaLove",
+      "Dname": "Fish Biryani",
+      "price": "249",
+      "qty": "1",
+      "desp": "layering aromatic Kaima or Seeraga samba rice with smear-fried fish and a rich biryani masala gravy",
+      "turl": "https://yellowchilis.com/wp-content/uploads/2021/03/best-fish-fry-biryani-recipe-kerala-style-fish-dum-biryani-300x300.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "f14e",
+      "category": "Sea-Food",
+      "Rstname": "SeaLove",
+      "Dname": "Fish Curry",
+      "price": "229",
+      "qty": "1",
+      "desp": "with fresh ground masalas, tangy tamarind, and succulent freshwater fish",
+      "turl": "https://yellowchilis.com/wp-content/uploads/2021/04/chepala-pulusu-recipe-nellore-andhra-fish-curry-fish-pulusu-recipe-f-300x300.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "f2c9",
+      "category": "Chienies",
+      "Rstname": "ChingChow",
+      "Dname": "Mushroom Manchurian",
+      "price": "159",
+      "qty": "1",
+      "desp": "spicy, tangy Indo-Chinese recipe for Mushroom Manchurian",
+      "turl": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/08/mushroom-manchurian-dry.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "bf10",
+      "category": "Chienies",
+      "Rstname": "ChingChow",
+      "Dname": "Manchow Soup",
+      "price": "129",
+      "qty": "1",
+      "desp": "Loaded with vegetables and overflowing with flavor",
+      "turl": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/11/veg-manchow-soup.jpg",
+      "rating": "5"
     }
   ]
 }
