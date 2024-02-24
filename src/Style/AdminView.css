@@ -1,0 +1,31 @@
+.img{
+    
+    overflow: hidden;
+}
+img{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+.Addminviewpage{
+    
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 30px;
+}
+.displayproduct{
+    border: 2px solid black;
+    margin: 0px 20px;
+    border-radius: 10px0 ;
+}
+.restaurant{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.restaurant>h4{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: rgb(255, 208, 0);
+}
